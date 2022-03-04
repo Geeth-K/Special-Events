@@ -14,9 +14,11 @@
     <string name="submit">submit</string>
     <string name="name">Name</string>
     <string name="event_none">None</string>
-    <string name="event_desc">Event Description</string>
+    <string name="event_desc">Event Desc.</string>
     <string name="cancel">Cancel</string>
     <string name="create">Create</string>
     <string name="error_create_event">Cannot create event. Please try later.</string>
     <string name="event_venue">Event Venue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
